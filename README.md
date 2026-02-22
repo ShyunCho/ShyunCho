@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Seohyun 👋
 
-<!--
-**ShyunCho/ShyunCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Growth / Performance Marketing Analytics Track  
+💡 SQL | Data | Marketing Metrics  
+🎯 Building job-ready analytics skills for tech & consumer brands
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 2026 Focus
+- SQL mastery (JOIN, Aggregation, Window Functions)
+- Performance marketing metrics (CAC, LTV, ROAS)
+- Funnel & cohort analysis
+- Real-world mini projects
+
+---
+
+## 📂 Active Repositories
+- growth-analytics-sql (in progress)
+- performance-marketing-projects (coming soon)
+
+---
+
+## 📈 Daily Commitment
+1 commit per day.
+Build. Document. Improve.
