@@ -15,7 +15,7 @@
 ---
 
 ## 📂 Active Repositories
-- growth-analytics-sql (in progress)
+- - [growth-analytics-sql](https://github.com/ShyunCho/growth-analytics-sql) (in progress)
 - performance-marketing-projects (coming soon)
 
 ---
