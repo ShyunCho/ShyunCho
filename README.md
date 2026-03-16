@@ -16,6 +16,7 @@
 
 ## 📂 Active Repositories
 - - [growth-analytics-sql](https://github.com/ShyunCho/growth-analytics-sql) (in progress)
+  - https://github.com/ShyunCho/catstar-legend
 - performance-marketing-projects (coming soon)
 
 ---
