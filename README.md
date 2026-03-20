@@ -1,4 +1,4 @@
-# Hi, I'm Seohyun
+# Hi, I'm Hailey
 
 📊 Growth / Performance Marketing Analytics Track  
 💡 SQL | Data | Marketing Metrics  
