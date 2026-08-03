@@ -1,5 +1,19 @@
 # Hi  I'm Hailey
 
+
+IT Infrastructure Engineer
+
+• Active Directory
+• Windows Server
+• Linux
+• Cisco Networking
+• Python
+• SQL
+
+Currently interested in:
+- Network Engineering
+- System Administration
+- Infrastructure Automation
 📊 Growth / Performance Marketing Analytics Track  
 💡 SQL | Data | Marketing Metrics  
 🎯 Building job-ready analytics skills for tech & consumer brands
