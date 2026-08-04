@@ -1,4 +1,4 @@
-# Hi  I'm Hailey
+# Hi, I'm Hailey
 
 
 IT Infrastructure Engineer
